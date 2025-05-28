@@ -1,1 +1,2 @@
 This is a new file and pushing it to GITHUB repository 
+This is file we are pushing it from GITHUB to Git or Git is Pulling from GITHUB.
