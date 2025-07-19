@@ -1,0 +1,3 @@
+Practie to ensure git PUsh is working to handle the later pushes of pipelines to GITHUB remote repository.
+This is a check whethere SSH is working or not.
+
